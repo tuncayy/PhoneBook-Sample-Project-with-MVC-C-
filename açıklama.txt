@@ -1,0 +1,5 @@
+sisteme girdikten sonra islem yapmak için login yapmaniz gerekiyor
+localhost/Login/login linkinden
+
+ad ve password veritabaninda userdb tablosundadir.
+
